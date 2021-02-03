@@ -1,4 +1,4 @@
-### Cost of College over time
+# Cost of College over time
 ## The unproportionally rising cost of being a student
 
 
